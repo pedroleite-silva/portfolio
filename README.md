@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pedro Leite-Silva | Healthcare Data Analytics Portfolio
 
 Welcome to my professional portfolio. I'm a healthcare data analyst and biostatistician focused on building data pipelines, automating workflows, and translating complex analyses into actionable insights.
@@ -69,4 +70,3 @@ Beyond data, I'm passionate about ecology and bird conservation. I volunteer wit
 
 ## 📝 License
 
-This portfolio and all projects are shared under the MIT License. See LICENSE file for details.
