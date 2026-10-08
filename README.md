@@ -62,7 +62,7 @@ Beyond data, I'm passionate about ecology and bird conservation. I volunteer wit
 
 ## 📫 Get in Touch
 
-- **Email**: pedro.leitesilva@proton.me
+- **Email**: pedroleitesilva@proton.me
 - **GitHub**: [pedro-leite-silva](https://github.com/pedro-leite-silva)
 - **LinkedIn**: [Your LinkedIn URL]
 
